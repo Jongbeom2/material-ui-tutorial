@@ -115,9 +115,9 @@ const ColorThemeTutorialContent = () => {
   const useStyles = makeStyles((theme) =>
     createStyles({
       root: {
-        height: '100%',
         background: theme.palette.background.default,
-        padding: theme.spacing(2)
+        padding: theme.spacing(2),
+        boxSizing: 'border-box'
       },
       contentButtonMain: {
         background: theme.palette.primary.main,
