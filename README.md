@@ -11,7 +11,7 @@ React에서 사용할 수 있는 라이브러리인 Material UI을 실습하는 
 1. 레포지토리의 소스코드 pull
 2. npm i
 3. npm start
-4. localhost:3000에서 확인
+4. localhost:4000에서 확인
 5. 만약 client를 수정했다면 npm run build 선행 필요
 
 ## Start development mode
