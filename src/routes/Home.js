@@ -42,6 +42,36 @@ const Home = () => {
             <ListItemText primary="Tab Tutorial" />
           </ListItem>
         </Link>
+        <Link href="/grid1">
+          <ListItem button divider >
+            <ListItemText primary="Grid Tutorial 1" />
+          </ListItem>
+        </Link>
+        <Link href="/grid2">
+          <ListItem button divider >
+            <ListItemText primary="Grid Tutorial 2" />
+          </ListItem>
+        </Link>
+        <Link href="/style1">
+          <ListItem button divider >
+            <ListItemText primary="Style Tutorial 1" />
+          </ListItem>
+        </Link>
+        <Link href="/style2">
+          <ListItem button divider >
+            <ListItemText primary="Style Tutorial 2" />
+          </ListItem>
+        </Link>
+        <Link href="/style3">
+          <ListItem button divider >
+            <ListItemText primary="Style Tutorial 3" />
+          </ListItem>
+        </Link>
+        <Link href="/box">
+          <ListItem button divider >
+            <ListItemText primary="Box Tutorial" />
+          </ListItem>
+        </Link>
       </List>
     </div>
   );
